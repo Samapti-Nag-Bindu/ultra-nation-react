@@ -1,0 +1,28 @@
+body{
+    background-color: #ffe8e8;
+}
+
+.country-section{
+    text-align: center;
+    border: 1px solid tomato;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    box-shadow: 1px 1px 10px lightgreen;
+}
+
+.country-section img{
+    height: 80px;
+    border-radius: 3px;
+}
+
+.add-btn{
+    background-color: rgb(33, 224, 231);
+    color: aliceblue;
+    font-weight: bold;
+    padding: 7px 20px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    cursor: pointer;
+}
